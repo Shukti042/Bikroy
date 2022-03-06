@@ -36,6 +36,10 @@ Postgresql queries of a minimalistic e-commerce website.
 ### ERD
 
 <p align="center">
-    <img src="https://github.com/Shukti042/Bikroy/blob/master/ERD.jpg" height=500 width=500 >
+    <img src="https://github.com/Shukti042/Bikroy/blob/master/ERD.jpg" height=700 width=700 >
 </p>
+
+
+
+#### **DDL,Queries, Functions and Triggers are reported in [Bikroy](https://github.com/Shukti042/Bikroy/blob/master/Bikroy.docx).**
 
