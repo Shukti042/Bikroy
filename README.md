@@ -34,3 +34,8 @@ Postgresql queries of a minimalistic e-commerce website.
 - Users can search for products.
 
 ### ERD
+
+<p align="center">
+    <img src="https://github.com/Shukti042/Bikroy/blob/master/ERD.jpg" height=500 width=500 >
+</p>
+
